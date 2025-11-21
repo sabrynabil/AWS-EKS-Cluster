@@ -29,6 +29,10 @@ The project demonstrates how to deploy, secure, scale, and monitor workloads on 
 - Understanding AWS VPC CNI limitations and production advice
 
 ---
+## 🏛 Architecture
+
+  ![EKS](./images/eks-aws-architecture.jpg)
+
 
 
 ---
