@@ -32,7 +32,7 @@ The project demonstrates how to deploy, secure, scale, and monitor workloads on 
 ## 🏛 Architecture
 
   ![EKS](./images/eks-aws-architecture.jpg)
-
+  ![EKS](./images/aws2.png)
 
 
 ---
