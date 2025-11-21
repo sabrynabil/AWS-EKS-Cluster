@@ -207,7 +207,7 @@ kubernetes   ClusterIP   10.100.0.1   <none>        443/TCP   38m
 
 # AWS Networking Basics Overview - Region, AZ, VPC and Subnet
 
-![EKS](./images/eks-aws-architecture.jpg)
+![EKS](../images/eks-aws-architecture.jpg)
 Master (AWS manages this, hence master nodes not visible in Console):
 - three master nodes for HA
 - security group for masters
