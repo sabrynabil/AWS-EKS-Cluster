@@ -8,7 +8,7 @@ The project demonstrates how to deploy, secure, scale, and monitor workloads on 
 
 ## 📌 Project Overview
 
-- This project covers:
+### This project covers:
 
 - Building an EKS cluster using AWS best practices
 
